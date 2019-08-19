@@ -1,0 +1,10 @@
+Open terminal inside starbucks folder:
+
+gradle init
+
+gradle build -x test
+
+make jar 
+
+make run
+
